@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello! 👋
 
+I'm Beau, a Web Developer who loves to create interesting web sites.
+
+I love games, cooking, music, and watching movies with my family.
+
+My current skills include React, Node.js, JavaScript, HTML, CSS, and Python.
+
+You can reach me via e-mail at BeauBradley@outlook.com. I look forward to hearing from you.
 <!--
 **devbeau/devbeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
